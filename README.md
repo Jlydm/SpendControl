@@ -34,4 +34,4 @@ Aunque la aplicación actual es básica, se ha diseñado con la idea de expandir
 
 ¡Explora, experimenta y contribuye al crecimiento de este emocionante proyecto! 😊
 
-Puedes acceder a la aplicación directamente [aquí].
+Puedes acceder a la aplicación directamente [aquí](https://spendcontroll.netlify.app/).
