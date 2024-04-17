@@ -1,4 +1,4 @@
-# Bienvenido a la Aplicación de Gestión de Gastos con React y Vite
+# Bienvenido a SpendControl
 
 ¡Gracias por explorar este proyecto! Aquí, hemos desarrollado una aplicación diseñada para facilitar el seguimiento de gastos personales. Aunque es una versión básica, representa un sólido punto de partida que podría evolucionar hacia un proyecto más ambicioso.
 
